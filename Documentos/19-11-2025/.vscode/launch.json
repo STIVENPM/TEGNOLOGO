@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Ejecutar Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "cwd": "${workspaceFolder}",
+      "classPaths": [
+        "${workspaceFolder}",
+        "${workspaceFolder}/mssql-jdbc-13.2.1.jre8.jar"
+      ],
+      "preLaunchTask": "Compilar"
+    }
+  ]
+}

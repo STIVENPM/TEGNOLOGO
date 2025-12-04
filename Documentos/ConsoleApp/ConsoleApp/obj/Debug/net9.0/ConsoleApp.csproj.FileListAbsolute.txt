@@ -1,0 +1,14 @@
+c:\Users\MI PC\Documents\Documentos\ConsoleApp\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
+c:\Users\MI PC\Documents\Documentos\ConsoleApp\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
+c:\Users\MI PC\Documents\Documentos\ConsoleApp\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+c:\Users\MI PC\Documents\Documentos\ConsoleApp\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
+c:\Users\MI PC\Documents\Documentos\ConsoleApp\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
+c:\Users\MI PC\Documents\Documentos\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MI PC\Documents\Documentos\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+c:\Users\MI PC\Documents\Documentos\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+c:\Users\MI PC\Documents\Documentos\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+c:\Users\MI PC\Documents\Documentos\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
+c:\Users\MI PC\Documents\Documentos\ConsoleApp\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
+c:\Users\MI PC\Documents\Documentos\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
+c:\Users\MI PC\Documents\Documentos\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+c:\Users\MI PC\Documents\Documentos\ConsoleApp\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
